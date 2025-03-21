@@ -1,8 +1,12 @@
-# Image Processing Engine
+# Image Processing Engine (v2.0-dev)
 
 An end-to-end system for batch processing, filtering, and converting images from various sources. This engine extracts images from archives or HuggingFace datasets, filters them based on criteria like resolution, converts them to optimized formats, and packages them for distribution.
 
+> **Note**: This is the development branch for version 2.0. For the stable version 1.0, please check the v1.0 tag.
+
 ## Features
+
+### Core Features (v1.0)
 
 - Extract images from TAR, ZIP archives, or HuggingFace datasets
 - Batch renaming with sequential IDs
@@ -13,6 +17,14 @@ An end-to-end system for batch processing, filtering, and converting images from
 - Database storage of image metadata and processing history
 - Checkpointing to resume interrupted processing
 - Comprehensive error handling and logging
+
+### Coming in v2.0
+
+- Image deduplication using perceptual hashing
+- Command-line batch comparison tool
+- Visual HTML reports with charts and thumbnails
+- Improved database schema for better query performance
+- Support for additional image formats (AVIF, JPEG XL)
 
 ## Setup
 

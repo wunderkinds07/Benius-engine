@@ -1,0 +1,17 @@
+{
+  "batch_id": "batch98945989",
+  "source": "/Users/thahirkareem/local/11.tar",
+  "timestamp": "2025-03-21T12:07:29.146608",
+  "stats": {
+    "extracted": 20,
+    "renamed": 20,
+    "filtered": 19,
+    "converted": 19,
+    "packaged": 19
+  },
+  "package": {
+    "package_path": null,
+    "file_count": 33,
+    "error": "Failed to create package"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "batch_id": "batch37423711",
+  "source": "/Users/thahirkareem/local/11.tar",
+  "timestamp": "2025-03-21T12:11:59.949630",
+  "stats": {
+    "extracted": 20,
+    "renamed": 20,
+    "filtered": 19,
+    "converted": 19,
+    "packaged": 19
+  },
+  "package": {
+    "package_path": "output/batch37423711_processed_20250321_121228.zip",
+    "file_count": 33,
+    "deleted_files": [],
+    "package_size": 357,
+    "package_size_mb": 0.0,
+    "elapsed_seconds": 0.001962900161743164
+  }
+}

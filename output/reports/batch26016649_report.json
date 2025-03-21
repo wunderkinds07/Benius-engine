@@ -1,0 +1,40 @@
+{
+  "batch_id": "batch26016649",
+  "source": "/Users/thahirkareem/local/11.tar",
+  "timestamp": "2025-03-21T12:14:37.510528",
+  "stats": {
+    "extracted": 20,
+    "renamed": 20,
+    "filtered": 19,
+    "converted": 19,
+    "packaged": 19
+  },
+  "package": {
+    "package_path": "output/batch26016649_processed_20250321_121505.zip",
+    "file_count": 19,
+    "deleted_files": [
+      "data/temp/batch26016649_converted/186041171-1_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u6444\u5f71.webp",
+      "data/temp/batch26016649_converted/187260723-13_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u6444\u5f71.webp",
+      "data/temp/batch26016649_converted/185911305-11_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u53ef\u89c6\u5316.webp",
+      "data/temp/batch26016649_converted/187429617-4_\u5efa\u7b51_\u5efa\u7b51\u53ef\u89c6\u5316_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185712683-0_\u5efa\u7b51_\u5bb6\u5177\u8bbe\u8ba1_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/187261077-7_\u5ba4\u5185\u8bbe\u8ba1_\u5efa\u7b51\u53ef\u89c6\u5316.webp",
+      "data/temp/batch26016649_converted/186915503-7_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185639887-3_\u53ef\u89c6\u5316_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/186062869-27_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u53ef\u89c6\u5316.webp",
+      "data/temp/batch26016649_converted/186021227-26_\u5efa\u7b51_\u5bb6\u5177\u8bbe\u8ba1_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185550235-29_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185732999-7_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/186915503-11_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/187336775-9_\u5efa\u7b51_\u827a\u672f\u6307\u5bfc_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185617283-111_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1_\u5efa\u7b51.webp",
+      "data/temp/batch26016649_converted/185877395-20_CGI_\u53ef\u89c6\u5316_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/187096021-22_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1.webp",
+      "data/temp/batch26016649_converted/185617283-46_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1_\u5efa\u7b51.webp",
+      "data/temp/batch26016649_converted/185698643-47_\u5ba4\u5185\u8bbe\u8ba1.webp"
+    ],
+    "package_size": 17068115,
+    "package_size_mb": 16.28,
+    "elapsed_seconds": 0.2813072204589844
+  }
+}

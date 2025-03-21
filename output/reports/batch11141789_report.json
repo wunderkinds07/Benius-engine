@@ -1,0 +1,24 @@
+{
+  "batch_id": "batch11141789",
+  "source": "/Users/thahirkareem/local/11.tar",
+  "timestamp": "2025-03-21T13:09:15.709169",
+  "stats": {
+    "extracted": 3,
+    "renamed": 3,
+    "filtered": 3,
+    "converted": 3,
+    "packaged": 3
+  },
+  "package": {
+    "package_path": "output/batch11141789_processed_20250321_130932.zip",
+    "file_count": 3,
+    "deleted_files": [
+      "data/temp/batch11141789_converted/186915503-11_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1.webp",
+      "data/temp/batch11141789_converted/185617283-111_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1_\u5efa\u7b51.webp",
+      "data/temp/batch11141789_converted/187096021-22_\u5efa\u7b51_\u5ba4\u5185\u8bbe\u8ba1_\u5bb6\u5177\u8bbe\u8ba1.webp"
+    ],
+    "package_size": 1996349,
+    "package_size_mb": 1.9,
+    "elapsed_seconds": 0.03213381767272949
+  }
+}

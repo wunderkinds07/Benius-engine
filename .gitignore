@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Database files
+*.db
+
+# Large output files
+/output/*.zip
+
+# Checkpoints
+/checkpoints/*
+!checkpoints/.gitkeep
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo

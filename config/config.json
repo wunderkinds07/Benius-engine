@@ -1,0 +1,20 @@
+{
+  "min_resolution": 800,
+  "output_format": "webp",
+  "quality": 100,
+  "batch_prefix": "batch",
+  "parallel_processing": false,
+  "max_workers": 8,
+  "enable_checkpoints": true,
+  "database_path": "database/images.db",
+  "huggingface_cache": "data/huggingface_cache",
+  "delete_after_packaging": true,
+  "show_progress": true,
+  "temp_directory": "data/temp",
+  "output_directory": "output",
+  "report_directory": "output/reports",
+  "sample_mode": false,
+  "sample_size": 100,
+  "sample_random": true,
+  "project_root": ""
+}

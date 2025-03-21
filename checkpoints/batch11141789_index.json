@@ -1,0 +1,109 @@
+{
+  "checkpoints": [
+    {
+      "filename": "batch11141789_1742548155.checkpoint",
+      "timestamp": 1742548155,
+      "datetime": "2025-03-21 13:09:15",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548170.checkpoint",
+      "timestamp": 1742548170,
+      "datetime": "2025-03-21 13:09:30",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548172.checkpoint",
+      "timestamp": 1742548172,
+      "datetime": "2025-03-21 13:09:32",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548172.checkpoint",
+      "timestamp": 1742548172,
+      "datetime": "2025-03-21 13:09:32",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch11141789_1742548172.checkpoint",
+      "timestamp": 1742548172,
+      "datetime": "2025-03-21 13:09:32",
+      "state_keys": [
+        "phase",
+        "status",
+        "path",
+        "_metadata"
+      ]
+    }
+  ]
+}

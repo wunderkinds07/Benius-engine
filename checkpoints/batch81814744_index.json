@@ -1,0 +1,66 @@
+{
+  "checkpoints": [
+    {
+      "filename": "batch81814744_1742542637.checkpoint",
+      "timestamp": 1742542637,
+      "datetime": "2025-03-21 11:37:17",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch81814744_1742542652.checkpoint",
+      "timestamp": 1742542652,
+      "datetime": "2025-03-21 11:37:32",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch81814744_1742542652.checkpoint",
+      "timestamp": 1742542652,
+      "datetime": "2025-03-21 11:37:32",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch81814744_1742542653.checkpoint",
+      "timestamp": 1742542653,
+      "datetime": "2025-03-21 11:37:33",
+      "state_keys": [
+        "phase",
+        "status",
+        "count",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch81814744_1742542653.checkpoint",
+      "timestamp": 1742542653,
+      "datetime": "2025-03-21 11:37:33",
+      "state_keys": [
+        "phase",
+        "status",
+        "_metadata"
+      ]
+    },
+    {
+      "filename": "batch81814744_1742542653.checkpoint",
+      "timestamp": 1742542653,
+      "datetime": "2025-03-21 11:37:33",
+      "state_keys": [
+        "phase",
+        "error",
+        "_metadata"
+      ]
+    }
+  ]
+}
